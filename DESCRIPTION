@@ -1,0 +1,12 @@
+Package: CryptoData
+Type: Package
+Title: Import and Visualize Cryptocurrency Data from Coinbase's API
+Version: 0.1.0
+Author: Alex Koener <koeneralex@gmail.com>
+Maintainer: Alex Koener <koeneralex@gmail.com>
+Description: This package is used to import historical cryptocurrency data from coinbase's API. This package also plots the cryptocurrency data on a line graph using ggplot2 and obtains the 52-week highest/lowest price.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: jsonlite, glue, ggplot2
+RoxygenNote: 7.1.1
