@@ -12,13 +12,8 @@ Below is all the functions and their uses:
 
 
 pair <- format_pair("btc", "usd")
-
 bitcoin <- get_coin_data(pair)
-
 plot_coin_data(bitcoin)
-
 plot_coin_volume_data(bitcoin)
-
 low_52_week(bitcoin)
-
 high_52_week(bitcoin)
