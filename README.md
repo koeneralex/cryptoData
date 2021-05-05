@@ -1,6 +1,6 @@
 # cryptoData-package-r
 
-This package was created to help import and visualize cryptocurrency data (like Bitcoin) in RStudio.
+This r-package was created to help import and visualize cryptocurrency data (like Bitcoin) in RStudio.
 
 Using functions within the package, one can type in the cryptocurrency they want to analyze and pair it with their local currency. Then import the data into a dataframe for ease of use.
 
